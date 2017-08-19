@@ -1,0 +1,27 @@
+body{
+  background-color: black;
+  text-align: center;
+  font-family: Verdana;
+}
+.header{
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+}
+.link{
+  color: Aquamarine;
+  font-size: 16px;
+}
+.body,
+  .end{
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+  }
+p{
+  color: gray;
+  font-size: 21px;
+}
+.footer{
+  text-align: right;
+}
